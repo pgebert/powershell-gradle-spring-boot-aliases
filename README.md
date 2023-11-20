@@ -1,7 +1,7 @@
 # Gradle Spring Boot aliases for PowerShell
-[![license](https://img.shields.io/github/license/gluons/powershell-git-aliases.svg?style=flat-square)](./LICENSE)
-[![PowerShell Gallery](https://img.shields.io/powershellgallery/v/terraform-aliases.svg?style=flat-square)](https://www.powershellgallery.com/packages/gradle-spring-boot-aliases/)
-[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/terraform-aliases.svg?style=flat-square)](https://www.powershellgallery.com/packages/gradle-spring-boot-aliases/)
+[![license](https://img.shields.io/github/license/pgebert/powershell-gradle-spring-boot-aliases.svg?style=flat-square)](./LICENSE)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/v/gradle-spring-boot-aliases.svg?style=flat-square)](https://www.powershellgallery.com/packages/gradle-spring-boot-aliases/)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/gradle-spring-boot-aliases.svg?style=flat-square)](https://www.powershellgallery.com/packages/gradle-spring-boot-aliases/)
 
 A [PowerShell](https://microsoft.com/powershell) module that provides aliases for the most common commands for [Spring Boot](https://spring.io/projects/spring-boot) projects build with [Gradle](https://docs.gradle.org/).
 
