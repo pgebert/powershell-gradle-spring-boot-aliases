@@ -10,28 +10,28 @@ Remove-Alias gwt -Force -ErrorAction SilentlyContinue
 Remove-Alias gwst -Force -ErrorAction SilentlyContinue
 
 function gw {
-	gradlew $args
+	.\gradlew $args
 }
 
 function gwa {
-	gradlew assemble $args
+	.\gradlew assemble $args
 }
 function gwb {
-	gradlew build $args
+	.\gradlew build $args
 }
 
 function gwc {
-	gradlew clean $args
+	.\gradlew clean $args
 }
 
 function gwr {
-	gradlew run $args
+	.\gradlew run $args
 }
 
 function gwt {
-	gradlew allTests $args
+	.\gradlew allTests $args
 }
 
 function gwst {
-	gradlew --status $args
+	.\gradlew --status $args
 }
