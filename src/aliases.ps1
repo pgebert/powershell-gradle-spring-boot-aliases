@@ -25,7 +25,7 @@ function gwc {
 }
 
 function gwr {
-	.\gradlew run $args
+	.\gradlew bootRun $args
 }
 
 function gwt {
